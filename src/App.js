@@ -7,6 +7,8 @@ import UseThrottleComp from './Components/useThrottle';
 import Debounce from './Components/useDebounce';
 import Signin from './Components/signin';
 import Products from './Components/products';
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 
